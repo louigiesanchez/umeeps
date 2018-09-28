@@ -6,9 +6,13 @@
 	/*overflow: hidden;*/
 }
 
+.container-fluid {
+  margin: 0;
+  pading: 0;
+}
+
 #landing {
   height: 100vh;
-  background-image: 
 }
 
 #contact {
